@@ -1,6 +1,6 @@
 # go-py-http-poc
 
-A small repo containing to apps (client/server) written in Golang and Python.
+A small repo containing two apps (client/server) written in Golang and Python.
 
 Mainly being used to test the behaviour of Go's net/http Post method.
 
